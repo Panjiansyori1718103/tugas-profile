@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">profile</string>
     <string name="Teknik_informatika">Informatics Engineering</string>
+    <string name="suka">like</string>
+    <string name="komentar">coment</string>
+    <string name="pelanggan">subscriber</string>
+    <string name="_12jt">12jt</string>
+    <string name="_19rb">19rb</string>
+    <string name="_10rb">10rb</string>
+    <string name="pesan">message</string>
 </resources>
